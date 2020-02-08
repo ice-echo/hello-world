@@ -1,2 +1,2 @@
 # hello-world
-我什么都不会
+hi i am a exerciser can not do anything
